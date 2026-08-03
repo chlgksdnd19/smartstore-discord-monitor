@@ -1,0 +1,67 @@
+name: SmartStore Discord Monitor
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 실행 방식
+        required: true
+        type: choice
+        default: monitor
+        options:
+          - monitor
+          - test-webhook
+          - reset-baseline
+  schedule:
+    - cron: '7,22,37,52 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: smartstore-discord-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    container:
+      image: mcr.microsoft.com/playwright:v1.62.0-noble
+      options: --user 1001
+
+    steps:
+      - name: 저장소 불러오기
+        uses: actions/checkout@v6
+
+      - name: Node 모듈 설치
+        run: npm install --no-audit --no-fund
+
+      - name: 스마트스토어 확인
+        id: monitor
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          RUN_MODE: ${{ inputs.mode || 'monitor' }}
+        run: npm run monitor
+
+      - name: 오류 자료 업로드
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: smartstore-debug-${{ github.run_number }}
+          path: debug/
+          if-no-files-found: ignore
+          retention-days: 7
+
+      - name: 변경된 기준값 저장
+        if: always()
+        run: |
+          git config user.name "smartstore-monitor[bot]"
+          git config user.email "smartstore-monitor[bot]@users.noreply.github.com"
+          git add data/state.json
+          if git diff --cached --quiet; then
+            echo "상품 변경이 없어 기준값을 그대로 유지합니다."
+          else
+            git commit -m "chore: update smartstore monitor state [skip ci]"
+            git push
+          fi
