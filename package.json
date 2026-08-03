@@ -1,0 +1,17 @@
+{
+  "name": "smartstore-discord-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Naver SmartStore change monitor for Discord webhooks",
+  "scripts": {
+    "monitor": "node monitor.js",
+    "check": "node --check monitor.js && node --check src/config.js && node --check src/utils.js && node --check src/extractors.js && node --check src/scraper.js && node --check src/discord.js"
+  },
+  "dependencies": {
+    "playwright": "1.62.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

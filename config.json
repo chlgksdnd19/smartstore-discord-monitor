@@ -1,0 +1,15 @@
+{
+  "storeName": "롯데백화점 스마트스토어",
+  "storeUrl": "https://smartstore.naver.com/lottegm42",
+  "pinnedProductUrls": [
+    "https://smartstore.naver.com/lottegm42/products/12309955192"
+  ],
+  "maxStorePages": 5,
+  "maxProducts": 200,
+  "pageWaitMs": 2200,
+  "requestDelayMs": 900,
+  "notifyOnBaseline": true,
+  "notifyOnRecovery": true,
+  "errorAlertAfterFailures": 3,
+  "timezone": "Asia/Seoul"
+}
