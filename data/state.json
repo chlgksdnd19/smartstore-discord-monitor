@@ -829,6 +829,20 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260808_198/1786156937577sfTpB_JPEG/120289778748317633_1090958048.jpeg?type=f750_750",
       "firstSeenAt": "2026-08-08T04:00:47.609Z",
       "lastChangedAt": "2026-08-12T05:13:38.203Z"
+    },
+    "13720148931": {
+      "id": "13720148931",
+      "url": "https://smartstore.naver.com/lottegm42/products/13720148931",
+      "name": "[반스] 남여공용 슈퍼 로우 프로 VN000D83DJR 스니커즈",
+      "currentPrice": 2500,
+      "originalPrice": 105000,
+      "discountRate": 40,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260813_255/1786616187534FUYj5_JPEG/39331747988643375_1982726854.jpeg?type=f750_750",
+      "firstSeenAt": "2026-08-13T12:06:52.052Z",
+      "lastChangedAt": "2026-08-13T12:06:52.052Z"
     }
   }
 }
