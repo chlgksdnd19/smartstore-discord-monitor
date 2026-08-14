@@ -843,6 +843,62 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260813_255/1786616187534FUYj5_JPEG/39331747988643375_1982726854.jpeg?type=f750_750",
       "firstSeenAt": "2026-08-13T12:06:52.052Z",
       "lastChangedAt": "2026-08-13T12:06:52.052Z"
+    },
+    "13721038624": {
+      "id": "13721038624",
+      "url": "https://smartstore.naver.com/lottegm42/products/13721038624",
+      "name": "[반스] 남여공용 올드스쿨 우븐 VN000D7ZCJ7 스니커즈",
+      "currentPrice": 2500,
+      "originalPrice": 95000,
+      "discountRate": 97,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260814_209/1786691813446HEvmp_JPEG/40800001419027457_1852115751.jpeg?type=f750_750",
+      "firstSeenAt": "2026-08-14T09:31:51.545Z",
+      "lastChangedAt": "2026-08-14T09:31:51.545Z"
+    },
+    "13721034753": {
+      "id": "13721034753",
+      "url": "https://smartstore.naver.com/lottegm42/products/13721034753",
+      "name": "[반스] 남여공용 올드스쿨 우븐 VN000ECDEMV 스니커즈",
+      "currentPrice": 2500,
+      "originalPrice": 95000,
+      "discountRate": 97,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260814_122/1786691530011Vpd2N_JPEG/13610193868575852_462266716.jpeg?type=f750_750",
+      "firstSeenAt": "2026-08-14T09:31:51.545Z",
+      "lastChangedAt": "2026-08-14T09:31:51.545Z"
+    },
+    "13721027204": {
+      "id": "13721027204",
+      "url": "https://smartstore.naver.com/lottegm42/products/13721027204",
+      "name": "[반스] 남여공용 Ed Davis 프리미엄 어센틱 44 VN000EAKTWB 스니커즈",
+      "currentPrice": 115000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260814_162/1786691073412KzPxw_JPEG/22377676423831502_1834850855.jpeg?type=f750_750",
+      "firstSeenAt": "2026-08-14T09:31:51.545Z",
+      "lastChangedAt": "2026-08-14T09:31:51.545Z"
+    },
+    "13721019004": {
+      "id": "13721019004",
+      "url": "https://smartstore.naver.com/lottegm42/products/13721019004",
+      "name": "[반스] 남여공용 MTE 하버 뮬 VR3 VN000CW3KHK 스니커즈",
+      "currentPrice": 79000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260814_84/17866905732099ulC5_JPEG/17906186152254783_526860506.jpeg?type=f750_750",
+      "firstSeenAt": "2026-08-14T09:31:51.545Z",
+      "lastChangedAt": "2026-08-14T09:31:51.545Z"
     }
   }
 }
