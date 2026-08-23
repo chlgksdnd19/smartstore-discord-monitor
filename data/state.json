@@ -626,13 +626,13 @@
       "name": "[반스] 남여공용 올드스쿨 투 톤 VN000D6WSRI 스니커즈",
       "currentPrice": 2500,
       "originalPrice": 85000,
-      "discountRate": 20,
+      "discountRate": 30,
       "stockQuantity": null,
       "soldOut": false,
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260805_293/17859006962967qaaa_JPEG/17116309270398809_203561457.jpeg?type=f750_750",
       "firstSeenAt": "2026-08-05T06:15:43.567Z",
-      "lastChangedAt": "2026-08-21T15:54:08.250Z"
+      "lastChangedAt": "2026-08-23T09:02:11.884Z"
     },
     "13700037838": {
       "id": "13700037838",
@@ -850,13 +850,13 @@
       "name": "[반스] 남여공용 올드스쿨 우븐 VN000D7ZCJ7 스니커즈",
       "currentPrice": 2500,
       "originalPrice": 95000,
-      "discountRate": 97,
+      "discountRate": 30,
       "stockQuantity": null,
       "soldOut": false,
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260814_209/1786691813446HEvmp_JPEG/40800001419027457_1852115751.jpeg?type=f750_750",
       "firstSeenAt": "2026-08-14T09:31:51.545Z",
-      "lastChangedAt": "2026-08-14T09:31:51.545Z"
+      "lastChangedAt": "2026-08-23T09:02:11.884Z"
     },
     "13721034753": {
       "id": "13721034753",
@@ -864,27 +864,27 @@
       "name": "[반스] 남여공용 올드스쿨 우븐 VN000ECDEMV 스니커즈",
       "currentPrice": 2500,
       "originalPrice": 95000,
-      "discountRate": 97,
+      "discountRate": 30,
       "stockQuantity": null,
       "soldOut": false,
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260814_122/1786691530011Vpd2N_JPEG/13610193868575852_462266716.jpeg?type=f750_750",
       "firstSeenAt": "2026-08-14T09:31:51.545Z",
-      "lastChangedAt": "2026-08-14T09:31:51.545Z"
+      "lastChangedAt": "2026-08-23T09:02:11.884Z"
     },
     "13721027204": {
       "id": "13721027204",
       "url": "https://smartstore.naver.com/lottegm42/products/13721027204",
       "name": "[반스] 남여공용 Ed Davis 프리미엄 어센틱 44 VN000EAKTWB 스니커즈",
-      "currentPrice": 115000,
-      "originalPrice": null,
-      "discountRate": null,
+      "currentPrice": 92000,
+      "originalPrice": 115000,
+      "discountRate": 20,
       "stockQuantity": null,
       "soldOut": false,
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260814_162/1786691073412KzPxw_JPEG/22377676423831502_1834850855.jpeg?type=f750_750",
       "firstSeenAt": "2026-08-14T09:31:51.545Z",
-      "lastChangedAt": "2026-08-14T09:31:51.545Z"
+      "lastChangedAt": "2026-08-23T09:02:11.884Z"
     },
     "13721019004": {
       "id": "13721019004",
@@ -904,43 +904,43 @@
       "id": "13721859040",
       "url": "https://smartstore.naver.com/lottegm42/products/13721859040",
       "name": "[반스] 남여공용 Soon Easy 프리미엄 어센틱 44 VN000EAKG2M 스니커즈",
-      "currentPrice": 115000,
-      "originalPrice": null,
-      "discountRate": null,
+      "currentPrice": 92000,
+      "originalPrice": 115000,
+      "discountRate": 20,
       "stockQuantity": null,
       "soldOut": false,
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260815_102/1786762643926kmxLO_JPEG/7424844120574666_440074781.jpeg?type=f750_750",
       "firstSeenAt": "2026-08-15T04:08:08.051Z",
-      "lastChangedAt": "2026-08-15T04:08:08.051Z"
+      "lastChangedAt": "2026-08-23T09:02:11.884Z"
     },
     "13721855798": {
       "id": "13721855798",
       "url": "https://smartstore.naver.com/lottegm42/products/13721855798",
       "name": "[반스] 남여공용 클래식 슬립온 투 톤 VN000D6YFOA 스니커즈",
-      "currentPrice": 69000,
-      "originalPrice": null,
-      "discountRate": null,
+      "currentPrice": 48300,
+      "originalPrice": 69000,
+      "discountRate": 30,
       "stockQuantity": null,
       "soldOut": false,
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260815_99/1786762293433AkmRd_JPEG/4402810248863897_1511700400.jpeg?type=f750_750",
       "firstSeenAt": "2026-08-15T04:08:08.051Z",
-      "lastChangedAt": "2026-08-15T04:08:08.051Z"
+      "lastChangedAt": "2026-08-23T09:02:11.884Z"
     },
     "13721852769": {
       "id": "13721852769",
       "url": "https://smartstore.naver.com/lottegm42/products/13721852769",
       "name": "[반스] 남여공용 클래식 슬립온 투 톤 VN000D6Y2N1 스니커즈",
-      "currentPrice": 69000,
-      "originalPrice": null,
-      "discountRate": null,
+      "currentPrice": 48300,
+      "originalPrice": 69000,
+      "discountRate": 30,
       "stockQuantity": null,
       "soldOut": false,
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260815_99/1786761856737ShXXY_JPEG/2006064504733450_2090790756.jpeg?type=f750_750",
       "firstSeenAt": "2026-08-15T04:08:08.051Z",
-      "lastChangedAt": "2026-08-15T04:08:08.051Z"
+      "lastChangedAt": "2026-08-23T09:02:11.884Z"
     }
   }
 }
