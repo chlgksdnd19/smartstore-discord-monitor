@@ -941,6 +941,20 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260815_99/1786761856737ShXXY_JPEG/2006064504733450_2090790756.jpeg?type=f750_750",
       "firstSeenAt": "2026-08-15T04:08:08.051Z",
       "lastChangedAt": "2026-08-26T02:15:53.449Z"
+    },
+    "13734883791": {
+      "id": "13734883791",
+      "url": "https://smartstore.naver.com/lottegm42/products/13734883791",
+      "name": "[반스] 남여공용 크로스패스 XC VN000EANFSM 스니커즈",
+      "currentPrice": 132300,
+      "originalPrice": 189000,
+      "discountRate": 30,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260826_287/17877306995441uF3b_JPEG/9124321528232262_379474851.jpeg?type=f750_750",
+      "firstSeenAt": "2026-08-26T08:36:58.241Z",
+      "lastChangedAt": "2026-08-26T08:36:58.241Z"
     }
   }
 }
