@@ -904,7 +904,7 @@
       "id": "13721859040",
       "url": "https://smartstore.naver.com/lottegm42/products/13721859040",
       "name": "[반스] 남여공용 Soon Easy 프리미엄 어센틱 44 VN000EAKG2M 스니커즈",
-      "currentPrice": 92000,
+      "currentPrice": 2500,
       "originalPrice": 115000,
       "discountRate": 20,
       "stockQuantity": null,
@@ -912,13 +912,13 @@
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260815_102/1786762643926kmxLO_JPEG/7424844120574666_440074781.jpeg?type=f750_750",
       "firstSeenAt": "2026-08-15T04:08:08.051Z",
-      "lastChangedAt": "2026-08-23T09:02:11.884Z"
+      "lastChangedAt": "2026-08-26T02:15:53.449Z"
     },
     "13721855798": {
       "id": "13721855798",
       "url": "https://smartstore.naver.com/lottegm42/products/13721855798",
       "name": "[반스] 남여공용 클래식 슬립온 투 톤 VN000D6YFOA 스니커즈",
-      "currentPrice": 48300,
+      "currentPrice": 2500,
       "originalPrice": 69000,
       "discountRate": 30,
       "stockQuantity": null,
@@ -926,13 +926,13 @@
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260815_99/1786762293433AkmRd_JPEG/4402810248863897_1511700400.jpeg?type=f750_750",
       "firstSeenAt": "2026-08-15T04:08:08.051Z",
-      "lastChangedAt": "2026-08-23T09:02:11.884Z"
+      "lastChangedAt": "2026-08-26T02:15:53.449Z"
     },
     "13721852769": {
       "id": "13721852769",
       "url": "https://smartstore.naver.com/lottegm42/products/13721852769",
       "name": "[반스] 남여공용 클래식 슬립온 투 톤 VN000D6Y2N1 스니커즈",
-      "currentPrice": 48300,
+      "currentPrice": 2500,
       "originalPrice": 69000,
       "discountRate": 30,
       "stockQuantity": null,
@@ -940,7 +940,7 @@
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260815_99/1786761856737ShXXY_JPEG/2006064504733450_2090790756.jpeg?type=f750_750",
       "firstSeenAt": "2026-08-15T04:08:08.051Z",
-      "lastChangedAt": "2026-08-23T09:02:11.884Z"
+      "lastChangedAt": "2026-08-26T02:15:53.449Z"
     }
   }
 }
