@@ -1053,6 +1053,76 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260830_277/1788061252967ju3xx_JPEG/61048106047966226_1281071432.jpeg?type=f750_750",
       "firstSeenAt": "2026-08-30T05:16:38.025Z",
       "lastChangedAt": "2026-08-30T05:16:38.025Z"
+    },
+    "13738803208": {
+      "id": "13738803208",
+      "url": "https://smartstore.naver.com/lottegm42/products/13738803208",
+      "name": "[반스] 토들러 올드스쿨 벨크로 레오파드 VN000VB2HO8 스니커즈",
+      "currentPrice": 55000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260830_58/17880690167385VimA_JPEG/19280317634961513_1067818685.jpeg?type=f750_750",
+      "firstSeenAt": "2026-08-30T10:31:13.528Z",
+      "lastChangedAt": "2026-08-30T10:31:13.528Z"
+    },
+    "13738801412": {
+      "id": "13738801412",
+      "url": "https://smartstore.naver.com/lottegm42/products/13738801412",
+      "name": "[반스] 토들러 올드스쿨 벨크로 플라워 VN000Z5XGSB 스니커즈",
+      "currentPrice": 59000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260830_147/1788068590488Kou5p_JPEG/3398013736477740_825095387.jpeg?type=f750_750",
+      "firstSeenAt": "2026-08-30T10:31:13.528Z",
+      "lastChangedAt": "2026-08-30T10:31:13.528Z"
+    },
+    "13738793988": {
+      "id": "13738793988",
+      "url": "https://smartstore.naver.com/lottegm42/products/13738793988",
+      "name": "[반스] 남여공용 클래식 슬립온 트랜슬루센트 VN000DAHCIS 스니커즈",
+      "currentPrice": 79000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260830_289/1788067804184kKgWp_JPEG/43887735300076039_759016265.jpeg?type=f750_750",
+      "firstSeenAt": "2026-08-30T10:31:13.528Z",
+      "lastChangedAt": "2026-08-30T10:31:13.528Z"
+    },
+    "13738791711": {
+      "id": "13738791711",
+      "url": "https://smartstore.naver.com/lottegm42/products/13738791711",
+      "name": "[반스] 남여공용 클래식 슬립온 트랜슬루센트 VN000DAHBPQ 스니커즈",
+      "currentPrice": 79000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260830_285/1788067359339cukoF_JPEG/42633607282757590_1181331398.jpeg?type=f750_750",
+      "firstSeenAt": "2026-08-30T10:31:13.528Z",
+      "lastChangedAt": "2026-08-30T10:31:13.528Z"
+    },
+    "13738788057": {
+      "id": "13738788057",
+      "url": "https://smartstore.naver.com/lottegm42/products/13738788057",
+      "name": "[반스] 남여공용 어센틱 아카이브 VN000D6GBMC 스니커즈",
+      "currentPrice": 79000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260830_114/1788066983902LB9Ml_JPEG/35058800049005583_856013541.jpeg?type=f750_750",
+      "firstSeenAt": "2026-08-30T10:31:13.528Z",
+      "lastChangedAt": "2026-08-30T10:31:13.528Z"
     }
   }
 }
