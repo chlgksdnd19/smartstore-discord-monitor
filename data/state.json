@@ -1235,6 +1235,20 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260902_24/1788318883525Kq8Va_JPEG/37889095966387806_704861948.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-02T05:44:40.314Z",
       "lastChangedAt": "2026-09-02T05:44:40.314Z"
+    },
+    "13748753237": {
+      "id": "13748753237",
+      "url": "https://smartstore.naver.com/lottegm42/products/13748753237",
+      "name": "[반스] 남여공용 코어클래식 슬립온 솔리드 VN000EYEW00 스니커즈",
+      "currentPrice": 69000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260906_289/1788667266800NpPTq_JPEG/37304858931331861_108908235.jpeg?type=f750_750",
+      "firstSeenAt": "2026-09-06T05:49:40.286Z",
+      "lastChangedAt": "2026-09-06T05:49:40.286Z"
     }
   }
 }
