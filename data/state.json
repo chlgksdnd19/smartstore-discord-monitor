@@ -1249,6 +1249,34 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260906_289/1788667266800NpPTq_JPEG/37304858931331861_108908235.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-06T05:49:40.286Z",
       "lastChangedAt": "2026-09-06T05:49:40.286Z"
+    },
+    "13759164866": {
+      "id": "13759164866",
+      "url": "https://smartstore.naver.com/lottegm42/products/13759164866",
+      "name": "[반스] 남여공용 어센틱 아카이브 VN000D6GCJI 스니커즈",
+      "currentPrice": 79000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260913_243/17892762060054xCcu_JPEG/65044508084930807_1494833794.jpeg?type=f750_750",
+      "firstSeenAt": "2026-09-13T10:09:38.869Z",
+      "lastChangedAt": "2026-09-13T10:09:38.869Z"
+    },
+    "13759159070": {
+      "id": "13759159070",
+      "url": "https://smartstore.naver.com/lottegm42/products/13759159070",
+      "name": "[반스] 남여공용 코어클래식 올드스쿨 화이트 VN000D3HW00 스니커즈",
+      "currentPrice": 85000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260913_113/1789275870032IdMVb_JPEG/65044172089283797_930855032.jpeg?type=f750_750",
+      "firstSeenAt": "2026-09-13T10:09:38.869Z",
+      "lastChangedAt": "2026-09-13T10:09:38.869Z"
     }
   }
 }
