@@ -1277,6 +1277,48 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260913_113/1789275870032IdMVb_JPEG/65044172089283797_930855032.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-13T10:09:38.869Z",
       "lastChangedAt": "2026-09-13T10:09:38.869Z"
+    },
+    "13761917665": {
+      "id": "13761917665",
+      "url": "https://smartstore.naver.com/lottegm42/products/13761917665",
+      "name": "[반스] 남여공용 프리미엄 어센틱 리이슈 44 VN000CQAOA8 스니커즈",
+      "currentPrice": 99000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260915_3/17894438694431BBV1_JPEG/80153643512291160_1761296438.jpeg?type=f750_750",
+      "firstSeenAt": "2026-09-15T05:27:01.245Z",
+      "lastChangedAt": "2026-09-15T05:27:01.245Z"
+    },
+    "13761908714": {
+      "id": "13761908714",
+      "url": "https://smartstore.naver.com/lottegm42/products/13761908714",
+      "name": "[반스] 남여공용 어센틱 스플래터 VN000D7YBMV 스니커즈",
+      "currentPrice": 75000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260915_26/1789443559132cVeBM_JPEG/123576329865698069_450020196.jpeg?type=f750_750",
+      "firstSeenAt": "2026-09-15T05:27:01.245Z",
+      "lastChangedAt": "2026-09-15T05:27:01.245Z"
+    },
+    "13761904081": {
+      "id": "13761904081",
+      "url": "https://smartstore.naver.com/lottegm42/products/13761904081",
+      "name": "[반스] 남여공용 어센틱 스플래터 체커보드 VN000D7YIBW 스니커즈",
+      "currentPrice": 75000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260915_284/17894432392588gso7_JPEG/19848892058106509_1863718526.jpeg?type=f750_750",
+      "firstSeenAt": "2026-09-15T05:27:01.245Z",
+      "lastChangedAt": "2026-09-15T05:27:01.245Z"
     }
   }
 }
