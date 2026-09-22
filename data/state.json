@@ -1375,6 +1375,34 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260916_3/17895493345851fMg2_JPEG/134879010405355746_816646088.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-16T13:03:00.875Z",
       "lastChangedAt": "2026-09-16T13:03:00.875Z"
+    },
+    "13771579041": {
+      "id": "13771579041",
+      "url": "https://smartstore.naver.com/lottegm42/products/13771579041",
+      "name": "[반스] 남여공용 클래식 슬립온 체커보드 VN000DAH1KP 스니커즈",
+      "currentPrice": 79000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260922_275/1790054669360wqqYI_JPEG/56240496789420190_774190068.jpeg?type=f750_750",
+      "firstSeenAt": "2026-09-22T05:28:19.677Z",
+      "lastChangedAt": "2026-09-22T05:28:19.677Z"
+    },
+    "13771567471": {
+      "id": "13771567471",
+      "url": "https://smartstore.naver.com/lottegm42/products/13771567471",
+      "name": "[반스] 남여공용 클래식 슬립온 체커보드 VN000DAHRDB 스니커즈",
+      "currentPrice": 79000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260922_225/1790054276394PDkI0_JPEG/56240103818293184_1479626571.jpeg?type=f750_750",
+      "firstSeenAt": "2026-09-22T05:28:19.677Z",
+      "lastChangedAt": "2026-09-22T05:28:19.677Z"
     }
   }
 }
