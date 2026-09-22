@@ -1403,6 +1403,76 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260922_225/1790054276394PDkI0_JPEG/56240103818293184_1479626571.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-22T05:28:19.677Z",
       "lastChangedAt": "2026-09-22T05:28:19.677Z"
+    },
+    "13771764004": {
+      "id": "13771764004",
+      "url": "https://smartstore.naver.com/lottegm42/products/13771764004",
+      "name": "[반스] 남여공용 프리미엄 어센틱 44 오버페인트 VN000D9NJVY 스니커즈",
+      "currentPrice": 95200,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260922_288/1790062702228v4WEJ_JPEG/115694336196684900_1160796742.jpeg?type=f750_750",
+      "firstSeenAt": "2026-09-22T10:14:21.734Z",
+      "lastChangedAt": "2026-09-22T10:14:21.734Z"
+    },
+    "13771757586": {
+      "id": "13771757586",
+      "url": "https://smartstore.naver.com/lottegm42/products/13771757586",
+      "name": "[반스] 남여공용 프리미엄 어센틱 44 오버페인트 VN000D9NBKA 스니커즈",
+      "currentPrice": 95200,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260922_169/179006215220044fWq_JPEG/3490591205467251_882120025.jpeg?type=f750_750",
+      "firstSeenAt": "2026-09-22T10:14:21.734Z",
+      "lastChangedAt": "2026-09-22T10:14:21.734Z"
+    },
+    "13771603635": {
+      "id": "13771603635",
+      "url": "https://smartstore.naver.com/lottegm42/products/13771603635",
+      "name": "[반스] 남여공용 슈퍼 로우 프로 VN000Z2ZDRT 스니커즈",
+      "currentPrice": 105000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260922_18/1790055823323Cj7be_JPEG/3484262352484523_360355764.jpeg?type=f750_750",
+      "firstSeenAt": "2026-09-22T10:14:21.734Z",
+      "lastChangedAt": "2026-09-22T10:14:21.734Z"
+    },
+    "13771596642": {
+      "id": "13771596642",
+      "url": "https://smartstore.naver.com/lottegm42/products/13771596642",
+      "name": "[반스] 남여공용 슈퍼 로우 프로 레이스 VN000D8TGSF 스니커즈",
+      "currentPrice": 105000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260922_180/17900555149029Qq0T_JPEG/124188385974069359_850805578.jpeg?type=f750_750",
+      "firstSeenAt": "2026-09-22T10:14:21.734Z",
+      "lastChangedAt": "2026-09-22T10:14:21.734Z"
+    },
+    "13771590299": {
+      "id": "13771590299",
+      "url": "https://smartstore.naver.com/lottegm42/products/13771590299",
+      "name": "[반스] 남여공용 올드스쿨 피그 스웨이드 VN000Z90JDU 스니커즈",
+      "currentPrice": 95000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260922_20/1790055172665aR9ic_JPEG/12711584962302902_235615562.jpeg?type=f750_750",
+      "firstSeenAt": "2026-09-22T10:14:21.734Z",
+      "lastChangedAt": "2026-09-22T10:14:21.734Z"
     }
   }
 }
