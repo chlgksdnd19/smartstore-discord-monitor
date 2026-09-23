@@ -1473,6 +1473,20 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260922_20/1790055172665aR9ic_JPEG/12711584962302902_235615562.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-22T10:14:21.734Z",
       "lastChangedAt": "2026-09-22T10:14:21.734Z"
+    },
+    "13773032589": {
+      "id": "13773032589",
+      "url": "https://smartstore.naver.com/lottegm42/products/13773032589",
+      "name": "[반스] 남여공용 올드스쿨 모노 VN000D9YTUP 스니커즈",
+      "currentPrice": 89000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260830_205/1788062368588PJ17f_JPEG/64524279701153003_1734429832.jpeg?type=f750_750",
+      "firstSeenAt": "2026-09-23T06:49:21.844Z",
+      "lastChangedAt": "2026-09-23T06:49:21.844Z"
     }
   }
 }
