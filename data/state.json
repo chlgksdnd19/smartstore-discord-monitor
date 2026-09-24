@@ -1352,29 +1352,29 @@
       "id": "13764267331",
       "url": "https://smartstore.naver.com/lottegm42/products/13764267331",
       "name": "[반스] 남여공용 어센틱 사이드월 프린트 VN000Z74CCZ 스니커즈",
-      "currentPrice": 60000,
-      "originalPrice": null,
-      "discountRate": null,
+      "currentPrice": 2500,
+      "originalPrice": 48000,
+      "discountRate": 95,
       "stockQuantity": null,
       "soldOut": false,
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260916_297/17895496652818VK65_JPEG/123682498737119856_1670162512.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-16T13:03:00.875Z",
-      "lastChangedAt": "2026-09-16T13:03:00.875Z"
+      "lastChangedAt": "2026-09-24T11:54:56.474Z"
     },
     "13764259467": {
       "id": "13764259467",
       "url": "https://smartstore.naver.com/lottegm42/products/13764259467",
       "name": "[반스] 남여공용 어센틱 사이드월 프린트 VN000Z7410Z 스니커즈",
-      "currentPrice": 60000,
-      "originalPrice": null,
-      "discountRate": null,
+      "currentPrice": 2500,
+      "originalPrice": 48000,
+      "discountRate": 95,
       "stockQuantity": null,
       "soldOut": false,
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260916_3/17895493345851fMg2_JPEG/134879010405355746_816646088.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-16T13:03:00.875Z",
-      "lastChangedAt": "2026-09-16T13:03:00.875Z"
+      "lastChangedAt": "2026-09-24T11:54:56.474Z"
     },
     "13771579041": {
       "id": "13771579041",
@@ -1604,7 +1604,7 @@
       "id": "13774218967",
       "url": "https://smartstore.naver.com/lottegm42/products/13774218967",
       "name": "[반스] 남여공용 올드스쿨 컬러 띠어리 VN000EDYH2D 스니커즈",
-      "currentPrice": 68000,
+      "currentPrice": 54400,
       "originalPrice": null,
       "discountRate": null,
       "stockQuantity": null,
@@ -1612,7 +1612,7 @@
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260924_99/1790223270307eQp6U_JPEG/12879682601831199_2007123053.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-24T06:16:18.735Z",
-      "lastChangedAt": "2026-09-24T06:16:18.735Z"
+      "lastChangedAt": "2026-09-24T11:54:56.474Z"
     },
     "13774214776": {
       "id": "13774214776",
