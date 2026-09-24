@@ -1086,7 +1086,7 @@
       "id": "13738793988",
       "url": "https://smartstore.naver.com/lottegm42/products/13738793988",
       "name": "[반스] 남여공용 클래식 슬립온 트랜슬루센트 VN000DAHCIS 스니커즈",
-      "currentPrice": 63200,
+      "currentPrice": 50560,
       "originalPrice": null,
       "discountRate": null,
       "stockQuantity": null,
@@ -1094,7 +1094,7 @@
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260830_289/1788067804184kKgWp_JPEG/43887735300076039_759016265.jpeg?type=f750_750",
       "firstSeenAt": "2026-08-30T10:31:13.528Z",
-      "lastChangedAt": "2026-09-16T13:03:00.875Z"
+      "lastChangedAt": "2026-09-24T06:16:18.735Z"
     },
     "13738791711": {
       "id": "13738791711",
@@ -1156,7 +1156,7 @@
       "id": "13741534338",
       "url": "https://smartstore.naver.com/lottegm42/products/13741534338",
       "name": "[반스] 남여공용 클래식 슬립온 아카이브 VN000D6YCYL 스니커즈",
-      "currentPrice": 63200,
+      "currentPrice": 50560,
       "originalPrice": null,
       "discountRate": null,
       "stockQuantity": null,
@@ -1164,13 +1164,13 @@
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260902_163/1788321467973p7qsM_JPEG/37891680375693305_1131422670.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-02T05:44:40.314Z",
-      "lastChangedAt": "2026-09-16T13:03:00.875Z"
+      "lastChangedAt": "2026-09-24T06:16:18.735Z"
     },
     "13741528618": {
       "id": "13741528618",
       "url": "https://smartstore.naver.com/lottegm42/products/13741528618",
       "name": "[반스] 남여공용 클래식 슬립온 아카이브 VN000D6YCJJ 스니커즈",
-      "currentPrice": 63200,
+      "currentPrice": 50560,
       "originalPrice": null,
       "discountRate": null,
       "stockQuantity": null,
@@ -1178,7 +1178,7 @@
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260902_106/1788321149002Wu5Bz_JPEG/44736378122737102_71373895.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-02T05:44:40.314Z",
-      "lastChangedAt": "2026-09-16T13:03:00.875Z"
+      "lastChangedAt": "2026-09-24T06:16:18.735Z"
     },
     "13741496964": {
       "id": "13741496964",
@@ -1212,15 +1212,15 @@
       "id": "13741483783",
       "url": "https://smartstore.naver.com/lottegm42/products/13741483783",
       "name": "[반스] 남여공용 어센틱 컬러 띠어리 VN000D6GH2D 스니커즈",
-      "currentPrice": 55200,
-      "originalPrice": null,
-      "discountRate": null,
+      "currentPrice": 2500,
+      "originalPrice": 44160,
+      "discountRate": 94,
       "stockQuantity": null,
       "soldOut": false,
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260902_7/1788319403225kxUxR_JPEG/122452325127217235_1869345324.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-02T05:44:40.314Z",
-      "lastChangedAt": "2026-09-16T13:03:00.875Z"
+      "lastChangedAt": "2026-09-24T06:16:18.735Z"
     },
     "13741474953": {
       "id": "13741474953",
@@ -1254,7 +1254,7 @@
       "id": "13759164866",
       "url": "https://smartstore.naver.com/lottegm42/products/13759164866",
       "name": "[반스] 남여공용 어센틱 아카이브 VN000D6GCJI 스니커즈",
-      "currentPrice": 63200,
+      "currentPrice": 50560,
       "originalPrice": null,
       "discountRate": null,
       "stockQuantity": null,
@@ -1262,7 +1262,7 @@
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260913_243/17892762060054xCcu_JPEG/65044508084930807_1494833794.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-13T10:09:38.869Z",
-      "lastChangedAt": "2026-09-16T13:03:00.875Z"
+      "lastChangedAt": "2026-09-24T06:16:18.735Z"
     },
     "13759159070": {
       "id": "13759159070",
@@ -1338,7 +1338,7 @@
       "id": "13764279996",
       "url": "https://smartstore.naver.com/lottegm42/products/13764279996",
       "name": "[반스] 남여공용 프리미엄 어센틱 44 아카이브 VN000DB8CYK 스니커즈",
-      "currentPrice": 92000,
+      "currentPrice": 73600,
       "originalPrice": null,
       "discountRate": null,
       "stockQuantity": null,
@@ -1346,7 +1346,7 @@
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260916_18/17895499055947kQGi_JPEG/99698355351047730_1817702345.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-16T13:03:00.875Z",
-      "lastChangedAt": "2026-09-16T13:03:00.875Z"
+      "lastChangedAt": "2026-09-24T06:16:18.735Z"
     },
     "13764267331": {
       "id": "13764267331",
@@ -1408,7 +1408,7 @@
       "id": "13771764004",
       "url": "https://smartstore.naver.com/lottegm42/products/13771764004",
       "name": "[반스] 남여공용 프리미엄 어센틱 44 오버페인트 VN000D9NJVY 스니커즈",
-      "currentPrice": 95200,
+      "currentPrice": 76160,
       "originalPrice": null,
       "discountRate": null,
       "stockQuantity": null,
@@ -1416,13 +1416,13 @@
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260922_288/1790062702228v4WEJ_JPEG/115694336196684900_1160796742.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-22T10:14:21.734Z",
-      "lastChangedAt": "2026-09-22T10:14:21.734Z"
+      "lastChangedAt": "2026-09-24T06:16:18.735Z"
     },
     "13771757586": {
       "id": "13771757586",
       "url": "https://smartstore.naver.com/lottegm42/products/13771757586",
       "name": "[반스] 남여공용 프리미엄 어센틱 44 오버페인트 VN000D9NBKA 스니커즈",
-      "currentPrice": 95200,
+      "currentPrice": 76160,
       "originalPrice": null,
       "discountRate": null,
       "stockQuantity": null,
@@ -1430,7 +1430,7 @@
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260922_169/179006215220044fWq_JPEG/3490591205467251_882120025.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-22T10:14:21.734Z",
-      "lastChangedAt": "2026-09-22T10:14:21.734Z"
+      "lastChangedAt": "2026-09-24T06:16:18.735Z"
     },
     "13771603635": {
       "id": "13771603635",
@@ -1571,6 +1571,62 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260805_248/1785900285907oTwS1_JPEG/120033221045379788_871592903.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-23T12:20:07.139Z",
       "lastChangedAt": "2026-09-23T12:20:07.139Z"
+    },
+    "13774230731": {
+      "id": "13774230731",
+      "url": "https://smartstore.naver.com/lottegm42/products/13774230731",
+      "name": "[반스] 키즈 올드스쿨 벨크로 검솔 VN000CYAGSF 스니커즈",
+      "currentPrice": 2500,
+      "originalPrice": 37760,
+      "discountRate": 93,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260924_109/1790224003253HUFHj_JPEG/52687462344285331_890309015.jpeg?type=f750_750",
+      "firstSeenAt": "2026-09-24T06:16:18.735Z",
+      "lastChangedAt": "2026-09-24T06:16:18.735Z"
+    },
+    "13774225156": {
+      "id": "13774225156",
+      "url": "https://smartstore.naver.com/lottegm42/products/13774225156",
+      "name": "[반스] 남여공용 올드스쿨 검솔 VN000EDYIC2 스니커즈",
+      "currentPrice": 68000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260924_30/1790223561519hTsBu_JPEG/100044655320690680_697248601.jpeg?type=f750_750",
+      "firstSeenAt": "2026-09-24T06:16:18.735Z",
+      "lastChangedAt": "2026-09-24T06:16:18.735Z"
+    },
+    "13774218967": {
+      "id": "13774218967",
+      "url": "https://smartstore.naver.com/lottegm42/products/13774218967",
+      "name": "[반스] 남여공용 올드스쿨 컬러 띠어리 VN000EDYH2D 스니커즈",
+      "currentPrice": 68000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260924_99/1790223270307eQp6U_JPEG/12879682601831199_2007123053.jpeg?type=f750_750",
+      "firstSeenAt": "2026-09-24T06:16:18.735Z",
+      "lastChangedAt": "2026-09-24T06:16:18.735Z"
+    },
+    "13774214776": {
+      "id": "13774214776",
+      "url": "https://smartstore.naver.com/lottegm42/products/13774214776",
+      "name": "[반스] 남여공용 클래식 슬립온 컬러띠어리 체커보드 VN000D6YH2D 스니커즈",
+      "currentPrice": 2500,
+      "originalPrice": 48000,
+      "discountRate": 95,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260924_20/1790222950105VNty9_JPEG/56408777489190196_1154793939.jpeg?type=f750_750",
+      "firstSeenAt": "2026-09-24T06:16:18.735Z",
+      "lastChangedAt": "2026-09-24T06:16:18.735Z"
     }
   }
 }
