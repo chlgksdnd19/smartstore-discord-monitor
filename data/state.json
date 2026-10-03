@@ -1627,6 +1627,48 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260924_20/1790222950105VNty9_JPEG/56408777489190196_1154793939.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-24T06:16:18.735Z",
       "lastChangedAt": "2026-09-24T06:16:18.735Z"
+    },
+    "13788315907": {
+      "id": "13788315907",
+      "url": "https://smartstore.naver.com/lottegm42/products/13788315907",
+      "name": "[반스] 남여공용 MTE 슬립-어 2 VN0A4UWOBLK 스니커즈",
+      "currentPrice": 79000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261003_230/1791003742688PwJdq_JPEG/59428337786012386_1400173895.jpeg?type=f750_750",
+      "firstSeenAt": "2026-10-03T06:29:15.808Z",
+      "lastChangedAt": "2026-10-03T06:29:15.808Z"
+    },
+    "13788302025": {
+      "id": "13788302025",
+      "url": "https://smartstore.naver.com/lottegm42/products/13788302025",
+      "name": "[반스] 남여공용 프리미엄 올드스쿨 36 체커보드 사이드월 VN000E8VBPO 스니커즈",
+      "currentPrice": 119000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261003_79/1791003278724FTfop_JPEG/125136063857337058_1646419382.jpeg?type=f750_750",
+      "firstSeenAt": "2026-10-03T06:29:15.808Z",
+      "lastChangedAt": "2026-10-03T06:29:15.808Z"
+    },
+    "13788290543": {
+      "id": "13788290543",
+      "url": "https://smartstore.naver.com/lottegm42/products/13788290543",
+      "name": "[반스] 남여공용 프리미엄 슬립온 98 체커보드 사이드월 VN000E96BPQ 스니커즈",
+      "currentPrice": 109000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261003_300/1791002708077Bax2a_JPEG/24187453016932187_300174558.jpeg?type=f750_750",
+      "firstSeenAt": "2026-10-03T06:29:15.808Z",
+      "lastChangedAt": "2026-10-03T06:29:15.808Z"
     }
   }
 }
