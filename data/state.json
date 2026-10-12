@@ -1669,6 +1669,34 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20261003_300/1791002708077Bax2a_JPEG/24187453016932187_300174558.jpeg?type=f750_750",
       "firstSeenAt": "2026-10-03T06:29:15.808Z",
       "lastChangedAt": "2026-10-03T06:29:15.808Z"
+    },
+    "13806600938": {
+      "id": "13806600938",
+      "url": "https://smartstore.naver.com/lottegm42/products/13806600938",
+      "name": "[반스] 남여공용 올드스쿨 체커보드 VN000Z901KP 스니커즈",
+      "currentPrice": 76000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261012_19/1791800023474Hpu8T_JPEG/24984768374402608_1952781415.jpeg?type=f750_750",
+      "firstSeenAt": "2026-10-12T17:47:32.232Z",
+      "lastChangedAt": "2026-10-12T17:47:32.232Z"
+    },
+    "13806587140": {
+      "id": "13806587140",
+      "url": "https://smartstore.naver.com/lottegm42/products/13806587140",
+      "name": "[반스] 남여공용 어센틱 스웨이드 VN000Z74N1Z 스니커즈",
+      "currentPrice": 75000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261012_211/1791799623006LcaSk_JPEG/14876567051294686_203649392.jpeg?type=f750_750",
+      "firstSeenAt": "2026-10-12T17:47:32.232Z",
+      "lastChangedAt": "2026-10-12T17:47:32.232Z"
     }
   }
 }
