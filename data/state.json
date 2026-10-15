@@ -1493,42 +1493,42 @@
       "url": "https://smartstore.naver.com/lottegm42/products/13773121704",
       "name": "[반스] 남여공용 프리미엄 어센틱 44 아카이브 VN000D9ND3X 스니커즈",
       "currentPrice": 2500,
-      "originalPrice": 47520,
-      "discountRate": 95,
+      "originalPrice": 39000,
+      "discountRate": 94,
       "stockQuantity": null,
       "soldOut": false,
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20261006_225/17912771452661p0oB_JPEG/30878353269133321_1490772717.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-23T12:20:07.139Z",
-      "lastChangedAt": "2026-10-06T15:33:35.072Z"
+      "lastChangedAt": "2026-10-15T06:33:34.937Z"
     },
     "13773117025": {
       "id": "13773117025",
       "url": "https://smartstore.naver.com/lottegm42/products/13773117025",
       "name": "[반스] 남여공용 슈퍼 로우 프로 VN000D83JVY 스니커즈",
-      "currentPrice": 50400,
-      "originalPrice": null,
-      "discountRate": null,
+      "currentPrice": 2500,
+      "originalPrice": 39000,
+      "discountRate": 94,
       "stockQuantity": null,
       "soldOut": false,
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20261006_228/1791277506917BND61_JPEG/59702102012290112_1387809867.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-23T12:20:07.139Z",
-      "lastChangedAt": "2026-10-06T15:33:35.072Z"
+      "lastChangedAt": "2026-10-15T06:33:34.937Z"
     },
     "13773111994": {
       "id": "13773111994",
       "url": "https://smartstore.naver.com/lottegm42/products/13773111994",
       "name": "[반스] 남여공용 Lx 프리미엄 올드스쿨 번트 골드 VN000D9JEMJ 스니커즈",
-      "currentPrice": 52320,
-      "originalPrice": null,
-      "discountRate": null,
+      "currentPrice": 2500,
+      "originalPrice": 49000,
+      "discountRate": 95,
       "stockQuantity": null,
       "soldOut": false,
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20261006_199/1791276671901L2wJY_JPEG/33889888805191178_773723558.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-23T12:20:07.139Z",
-      "lastChangedAt": "2026-10-06T08:53:48.461Z"
+      "lastChangedAt": "2026-10-15T06:33:34.937Z"
     },
     "13773102434": {
       "id": "13773102434",
