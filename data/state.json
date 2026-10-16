@@ -1697,6 +1697,34 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20261012_211/1791799623006LcaSk_JPEG/14876567051294686_203649392.jpeg?type=f750_750",
       "firstSeenAt": "2026-10-12T17:47:32.232Z",
       "lastChangedAt": "2026-10-12T17:47:32.232Z"
+    },
+    "13814251933": {
+      "id": "13814251933",
+      "url": "https://smartstore.naver.com/lottegm42/products/13814251933",
+      "name": "[반스] 남여공용 뮬 플랫폼 라이트 코지 VN00117GGWT 스니커즈",
+      "currentPrice": 109000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261016_25/1792127437559WBzNw_JPEG/17894211611210107_634082976.jpeg?type=f750_750",
+      "firstSeenAt": "2026-10-16T05:52:28.376Z",
+      "lastChangedAt": "2026-10-16T05:52:28.376Z"
+    },
+    "13814241778": {
+      "id": "13814241778",
+      "url": "https://smartstore.naver.com/lottegm42/products/13814241778",
+      "name": "[반스] 남여공용 뮬 플랫폼 라이트 코지 VN00117GDJR 스니커즈",
+      "currentPrice": 109000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261016_25/1792126937386wGLR3_JPEG/17893711479108990_412626997.jpeg?type=f750_750",
+      "firstSeenAt": "2026-10-16T05:52:28.376Z",
+      "lastChangedAt": "2026-10-16T05:52:28.376Z"
     }
   }
 }
