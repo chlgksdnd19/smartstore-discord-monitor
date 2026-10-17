@@ -1725,6 +1725,20 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20261016_25/1792126937386wGLR3_JPEG/17893711479108990_412626997.jpeg?type=f750_750",
       "firstSeenAt": "2026-10-16T05:52:28.376Z",
       "lastChangedAt": "2026-10-16T05:52:28.376Z"
+    },
+    "13816819883": {
+      "id": "13816819883",
+      "url": "https://smartstore.naver.com/lottegm42/products/13816819883",
+      "name": "[반스] 남여공용 MTE 하버 뮬 VR3 VN00119BGWT 스니커즈",
+      "currentPrice": 79000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261017_150/1792222825503hGOjD_JPEG/126355727599909826_1139189832.jpeg?type=f750_750",
+      "firstSeenAt": "2026-10-17T10:44:57.069Z",
+      "lastChangedAt": "2026-10-17T10:44:57.069Z"
     }
   }
 }
