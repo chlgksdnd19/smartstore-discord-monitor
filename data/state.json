@@ -1,7 +1,7 @@
 {
   "version": 1,
   "initialized": true,
-  "failureCount": 0,
+  "failureCount": 1,
   "heartbeatMonth": "2026-10",
   "products": {
     "13694259754": {
@@ -1338,7 +1338,7 @@
       "id": "13764279996",
       "url": "https://smartstore.naver.com/lottegm42/products/13764279996",
       "name": "[반스] 남여공용 프리미엄 어센틱 44 아카이브 VN000DB8CYK 스니커즈",
-      "currentPrice": 73600,
+      "currentPrice": 92000,
       "originalPrice": null,
       "discountRate": null,
       "stockQuantity": null,
@@ -1346,7 +1346,7 @@
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260916_18/17895499055947kQGi_JPEG/99698355351047730_1817702345.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-16T13:03:00.875Z",
-      "lastChangedAt": "2026-09-24T06:16:18.735Z"
+      "lastChangedAt": "2026-10-20T12:16:08.785Z"
     },
     "13764267331": {
       "id": "13764267331",
@@ -1408,7 +1408,7 @@
       "id": "13771764004",
       "url": "https://smartstore.naver.com/lottegm42/products/13771764004",
       "name": "[반스] 남여공용 프리미엄 어센틱 44 오버페인트 VN000D9NJVY 스니커즈",
-      "currentPrice": 76160,
+      "currentPrice": 95200,
       "originalPrice": null,
       "discountRate": null,
       "stockQuantity": null,
@@ -1416,13 +1416,13 @@
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260922_288/1790062702228v4WEJ_JPEG/115694336196684900_1160796742.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-22T10:14:21.734Z",
-      "lastChangedAt": "2026-09-24T06:16:18.735Z"
+      "lastChangedAt": "2026-10-20T12:16:08.785Z"
     },
     "13771757586": {
       "id": "13771757586",
       "url": "https://smartstore.naver.com/lottegm42/products/13771757586",
       "name": "[반스] 남여공용 프리미엄 어센틱 44 오버페인트 VN000D9NBKA 스니커즈",
-      "currentPrice": 76160,
+      "currentPrice": 95200,
       "originalPrice": null,
       "discountRate": null,
       "stockQuantity": null,
@@ -1430,7 +1430,7 @@
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260922_169/179006215220044fWq_JPEG/3490591205467251_882120025.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-22T10:14:21.734Z",
-      "lastChangedAt": "2026-09-24T06:16:18.735Z"
+      "lastChangedAt": "2026-10-20T12:16:08.785Z"
     },
     "13771603635": {
       "id": "13771603635",
@@ -1604,7 +1604,7 @@
       "id": "13774218967",
       "url": "https://smartstore.naver.com/lottegm42/products/13774218967",
       "name": "[반스] 남여공용 올드스쿨 컬러 띠어리 VN000EDYH2D 스니커즈",
-      "currentPrice": 54400,
+      "currentPrice": 68000,
       "originalPrice": null,
       "discountRate": null,
       "stockQuantity": null,
@@ -1612,7 +1612,7 @@
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20260924_99/1790223270307eQp6U_JPEG/12879682601831199_2007123053.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-24T06:16:18.735Z",
-      "lastChangedAt": "2026-09-24T11:54:56.474Z"
+      "lastChangedAt": "2026-10-20T12:16:08.785Z"
     },
     "13774214776": {
       "id": "13774214776",
@@ -1768,5 +1768,7 @@
       "firstSeenAt": "2026-10-20T06:43:58.028Z",
       "lastChangedAt": "2026-10-20T06:43:58.028Z"
     }
-  }
+  },
+  "lastErrorAt": "2026-10-20T12:16:08.993Z",
+  "lastError": "Error: Discord Webhook 전송 실패 (404): {\"message\": \"Unknown Webhook\", \"code\": 10015}"
 }
