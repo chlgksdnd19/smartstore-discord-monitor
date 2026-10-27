@@ -1795,8 +1795,22 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20261025_62/17929100469827Mb0W_JPEG/39655052336401295_1635368876.jpeg?type=f750_750",
       "firstSeenAt": "2026-10-25T09:25:31.191Z",
       "lastChangedAt": "2026-10-25T09:25:31.191Z"
+    },
+    "13834483306": {
+      "id": "13834483306",
+      "url": "https://smartstore.naver.com/lottegm42/products/13834483306",
+      "name": "[반스] 남여공용 올드스쿨 투 톤 VN000D7Z85T 스니커즈",
+      "currentPrice": 53400,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261027_243/1793079073688WTEq9_JPEG/18845847732348001_553648146.jpeg?type=f750_750",
+      "firstSeenAt": "2026-10-27T05:40:40.078Z",
+      "lastChangedAt": "2026-10-27T05:40:40.078Z"
     }
   },
-  "lastErrorAt": "2026-10-27T00:45:21.909Z",
+  "lastErrorAt": "2026-10-27T05:40:40.253Z",
   "lastError": "Error: Discord Webhook 전송 실패 (404): {\"message\": \"Unknown Webhook\", \"code\": 10015}"
 }
