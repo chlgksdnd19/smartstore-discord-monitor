@@ -1893,8 +1893,50 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20261027_86/1793079510810v3N2E_JPEG/127212324069223240_1096149398.jpeg?type=f750_750",
       "firstSeenAt": "2026-10-27T11:00:40.554Z",
       "lastChangedAt": "2026-10-27T11:00:40.554Z"
+    },
+    "13838152982": {
+      "id": "13838152982",
+      "url": "https://smartstore.naver.com/lottegm42/products/13838152982",
+      "name": "[반스] 남여공용 올드스쿨 플래드 VN000D3HFST 스니커즈",
+      "currentPrice": 95000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261029_216/1793252416859eyHmf_JPEG/127385236932767770_473935484.jpeg?type=f750_750",
+      "firstSeenAt": "2026-10-29T07:13:40.237Z",
+      "lastChangedAt": "2026-10-29T07:13:40.237Z"
+    },
+    "13838144766": {
+      "id": "13838144766",
+      "url": "https://smartstore.naver.com/lottegm42/products/13838144766",
+      "name": "[반스] 남여공용 올드스쿨 타탄 체크 VN0010VZTD8 스니커즈",
+      "currentPrice": 89000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261029_100/1793252147008uVG7k_JPEG/127384994979870784_1671116696.jpeg?type=f750_750",
+      "firstSeenAt": "2026-10-29T07:13:40.237Z",
+      "lastChangedAt": "2026-10-29T07:13:40.237Z"
+    },
+    "13838136596": {
+      "id": "13838136596",
+      "url": "https://smartstore.naver.com/lottegm42/products/13838136596",
+      "name": "[반스] 남여공용 어센틱 플래드 VN000D7YBML 스니커즈",
+      "currentPrice": 79000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261029_79/1793251656251W5LGF_JPEG/127384457680073476_575055557.jpeg?type=f750_750",
+      "firstSeenAt": "2026-10-29T07:13:40.237Z",
+      "lastChangedAt": "2026-10-29T07:13:40.237Z"
     }
   },
-  "lastErrorAt": "2026-10-29T01:17:29.844Z",
+  "lastErrorAt": "2026-10-29T07:13:40.422Z",
   "lastError": "Error: Discord Webhook 전송 실패 (404): {\"message\": \"Unknown Webhook\", \"code\": 10015}"
 }
