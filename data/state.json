@@ -1288,7 +1288,7 @@
       "stockQuantity": null,
       "soldOut": false,
       "stockStatus": "판매 가능",
-      "imageUrl": "https://shop-phinf.pstatic.net/20260915_69/1789443857227NbHJ1_JPEG/37998742070810498_1657866522.jpeg?type=f80_80",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260915_3/17894438694431BBV1_JPEG/80153643512291160_1761296438.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-15T05:27:01.245Z",
       "lastChangedAt": "2026-09-15T05:27:01.245Z"
     },
@@ -1372,7 +1372,7 @@
       "stockQuantity": null,
       "soldOut": false,
       "stockStatus": "판매 가능",
-      "imageUrl": "https://shop-phinf.pstatic.net/20260916_289/1789549321038TbTTH_JPEG/31991513543717017_1367441342.jpeg?type=f750_750",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260916_3/17895493345851fMg2_JPEG/134879010405355746_816646088.jpeg?type=f750_750",
       "firstSeenAt": "2026-09-16T13:03:00.875Z",
       "lastChangedAt": "2026-10-25T09:25:31.191Z"
     },
@@ -1937,6 +1937,6 @@
       "lastChangedAt": "2026-10-29T07:13:40.237Z"
     }
   },
-  "lastErrorAt": "2026-11-01T09:13:57.377Z",
+  "lastErrorAt": "2026-11-01T16:04:29.138Z",
   "lastError": "Error: Discord Webhook 전송 실패 (404): {\"message\": \"Unknown Webhook\", \"code\": 10015}"
 }
