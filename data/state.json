@@ -1,7 +1,7 @@
 {
   "version": 1,
   "initialized": true,
-  "failureCount": 2,
+  "failureCount": 1,
   "heartbeatMonth": "2026-11",
   "products": {
     "13694259754": {
@@ -1935,8 +1935,78 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20261029_79/1793251656251W5LGF_JPEG/127384457680073476_575055557.jpeg?type=f750_750",
       "firstSeenAt": "2026-10-29T07:13:40.237Z",
       "lastChangedAt": "2026-10-29T07:13:40.237Z"
+    },
+    "13845038743": {
+      "id": "13845038743",
+      "url": "https://smartstore.naver.com/lottegm42/products/13845038743",
+      "name": "[반스] 남여공용 올드스쿨 코듀로이 VN0005UFBRO 스니커즈",
+      "currentPrice": 89000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261025_129/179291040971687UPh_JPEG/11119828525441454_1085264170.jpeg?type=f750_750",
+      "firstSeenAt": "2026-11-02T10:04:44.376Z",
+      "lastChangedAt": "2026-11-02T10:04:44.376Z"
+    },
+    "13844999003": {
+      "id": "13844999003",
+      "url": "https://smartstore.naver.com/lottegm42/products/13844999003",
+      "name": "[반스] 프리미엄 어센틱 프리마 VN000EDXBLA 스니커즈",
+      "currentPrice": 119000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260922_288/1790062702228v4WEJ_JPEG/115694336196684900_1160796742.jpeg?type=f750_750",
+      "firstSeenAt": "2026-11-02T10:04:44.376Z",
+      "lastChangedAt": "2026-11-02T10:04:44.376Z"
+    },
+    "13844980797": {
+      "id": "13844980797",
+      "url": "https://smartstore.naver.com/lottegm42/products/13844980797",
+      "name": "[반스] 남여공용 프리미엄 올드스쿨 아카이브 VN000D9JGR4 스니커즈",
+      "currentPrice": 109000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20260606_172/1780722178786FntzE_JPEG/15331674366050136_932491862.jpeg?type=f750_750",
+      "firstSeenAt": "2026-11-02T10:04:44.376Z",
+      "lastChangedAt": "2026-11-02T10:04:44.376Z"
+    },
+    "13844966985": {
+      "id": "13844966985",
+      "url": "https://smartstore.naver.com/lottegm42/products/13844966985",
+      "name": "[반스] 남여공용 올드스쿨 인센스 VN000DB34MG 스니커즈",
+      "currentPrice": 95000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261029_216/1793252416859eyHmf_JPEG/127385236932767770_473935484.jpeg?type=f750_750",
+      "firstSeenAt": "2026-11-02T10:04:44.376Z",
+      "lastChangedAt": "2026-11-02T10:04:44.376Z"
+    },
+    "13844845324": {
+      "id": "13844845324",
+      "url": "https://smartstore.naver.com/lottegm42/products/13844845324",
+      "name": "[반스] 남여공용 프리미엄 올드스쿨 36 아카이브 VN000E8VBPO 스니커즈",
+      "currentPrice": 119000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261003_79/1791003278724FTfop_JPEG/125136063857337058_1646419382.jpeg?type=f750_750",
+      "firstSeenAt": "2026-11-02T10:04:44.376Z",
+      "lastChangedAt": "2026-11-02T10:04:44.376Z"
     }
   },
-  "lastErrorAt": "2026-11-02T02:46:42.989Z",
-  "lastError": "Error: 스토어 페이지 HTTP 429"
+  "lastErrorAt": "2026-11-02T10:04:44.569Z",
+  "lastError": "Error: Discord Webhook 전송 실패 (404): {\"message\": \"Unknown Webhook\", \"code\": 10015}"
 }
