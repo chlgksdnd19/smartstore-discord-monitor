@@ -1,7 +1,7 @@
 {
   "version": 1,
   "initialized": true,
-  "failureCount": 1,
+  "failureCount": 2,
   "heartbeatMonth": "2026-11",
   "products": {
     "13694259754": {
@@ -1937,6 +1937,6 @@
       "lastChangedAt": "2026-10-29T07:13:40.237Z"
     }
   },
-  "lastErrorAt": "2026-11-01T23:47:16.067Z",
-  "lastError": "Error: Discord Webhook 전송 실패 (404): {\"message\": \"Unknown Webhook\", \"code\": 10015}"
+  "lastErrorAt": "2026-11-02T02:46:42.989Z",
+  "lastError": "Error: 스토어 페이지 HTTP 429"
 }
