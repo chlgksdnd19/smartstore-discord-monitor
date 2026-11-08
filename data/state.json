@@ -1744,15 +1744,15 @@
       "id": "13823031971",
       "url": "https://smartstore.naver.com/lottegm42/products/13823031971",
       "name": "[반스] 토들러 메리제인 파티타임 VN00117WBRD 스니커즈",
-      "currentPrice": 49000,
-      "originalPrice": null,
-      "discountRate": null,
+      "currentPrice": 2500,
+      "originalPrice": 49000,
+      "discountRate": 95,
       "stockQuantity": null,
       "soldOut": false,
       "stockStatus": "판매 가능",
       "imageUrl": "https://shop-phinf.pstatic.net/20261020_182/1792472369228GsfNE_JPEG/65404500466341801_1725054696.jpeg?type=f750_750",
       "firstSeenAt": "2026-10-20T06:43:58.028Z",
-      "lastChangedAt": "2026-10-20T06:43:58.028Z"
+      "lastChangedAt": "2026-11-08T09:12:52.497Z"
     },
     "13823020369": {
       "id": "13823020369",
@@ -1995,7 +1995,7 @@
     "13844845324": {
       "id": "13844845324",
       "url": "https://smartstore.naver.com/lottegm42/products/13844845324",
-      "name": "[반스] 남여공용 프리미엄 올드스쿨 36 아카이브 VN000E8VBPO 스니커즈",
+      "name": "[반스] 남여공용 프리미엄 올드스쿨 36 아카이브 VN000D9RBMC 스니커즈",
       "currentPrice": 119000,
       "originalPrice": null,
       "discountRate": null,
@@ -2005,8 +2005,64 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20261003_79/1791003278724FTfop_JPEG/125136063857337058_1646419382.jpeg?type=f750_750",
       "firstSeenAt": "2026-11-02T10:04:44.376Z",
       "lastChangedAt": "2026-11-02T10:04:44.376Z"
+    },
+    "13860380790": {
+      "id": "13860380790",
+      "url": "https://smartstore.naver.com/lottegm42/products/13860380790",
+      "name": "[반스] 키즈 클래식 슬립온 코지 VN000EABGWT 스니커즈",
+      "currentPrice": 55000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261108_175/1794112927090ArVv6_JPEG/26084548718959678_1540221840.jpeg?type=f750_750",
+      "firstSeenAt": "2026-11-08T09:12:52.497Z",
+      "lastChangedAt": "2026-11-08T09:12:52.497Z"
+    },
+    "13860372860": {
+      "id": "13860372860",
+      "url": "https://smartstore.naver.com/lottegm42/products/13860372860",
+      "name": "[반스] 토들러 슬립온 벨크로 코지 VN00117FGWT 스니커즈",
+      "currentPrice": 55000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261108_293/1794112504414TiINk_JPEG/12274384382244065_2014185324.jpeg?type=f750_750",
+      "firstSeenAt": "2026-11-08T09:12:52.497Z",
+      "lastChangedAt": "2026-11-08T09:12:52.497Z"
+    },
+    "13860346365": {
+      "id": "13860346365",
+      "url": "https://smartstore.naver.com/lottegm42/products/13860346365",
+      "name": "[반스] 토들러 올드스쿨 벨크로 코지 VN0A38JNBRD 스니커즈",
+      "currentPrice": 55000,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261108_46/1794111653964d7JnE_JPEG/74097012947792664_1890048845.jpeg?type=f750_750",
+      "firstSeenAt": "2026-11-08T09:12:52.497Z",
+      "lastChangedAt": "2026-11-08T09:12:52.497Z"
+    },
+    "13860338848": {
+      "id": "13860338848",
+      "url": "https://smartstore.naver.com/lottegm42/products/13860338848",
+      "name": "[반스] 남여공용 올드스쿨 검솔 VN000Z6TICA 스니커즈",
+      "currentPrice": 59500,
+      "originalPrice": null,
+      "discountRate": null,
+      "stockQuantity": null,
+      "soldOut": false,
+      "stockStatus": "판매 가능",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261108_115/1794111196531somKG_JPEG/33446468340492805_387043612.jpeg?type=f750_750",
+      "firstSeenAt": "2026-11-08T09:12:52.497Z",
+      "lastChangedAt": "2026-11-08T09:12:52.497Z"
     }
   },
-  "lastErrorAt": "2026-11-08T02:19:56.559Z",
+  "lastErrorAt": "2026-11-08T09:12:52.691Z",
   "lastError": "Error: Discord Webhook 전송 실패 (404): {\"message\": \"Unknown Webhook\", \"code\": 10015}"
 }
