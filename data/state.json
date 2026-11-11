@@ -1680,7 +1680,7 @@
       "stockQuantity": null,
       "soldOut": false,
       "stockStatus": "판매 가능",
-      "imageUrl": "https://shop-phinf.pstatic.net/20261012_146/17918000118715PuL8_JPEG/125932944138542208_1756373032.jpeg?type=f640",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261012_146/17918000118715PuL8_JPEG/125932944138542208_1756373032.jpeg?type=f640_webp",
       "firstSeenAt": "2026-10-12T17:47:32.232Z",
       "lastChangedAt": "2026-10-12T17:47:32.232Z"
     },
@@ -1694,7 +1694,7 @@
       "stockQuantity": null,
       "soldOut": false,
       "stockStatus": "판매 가능",
-      "imageUrl": "https://shop-phinf.pstatic.net/20261012_231/1791799611319UHXJm_JPEG/29547990056569599_1968029908.jpeg?type=f640",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261012_231/1791799611319UHXJm_JPEG/29547990056569599_1968029908.jpeg?type=f640_webp",
       "firstSeenAt": "2026-10-12T17:47:32.232Z",
       "lastChangedAt": "2026-10-12T17:47:32.232Z"
     },
@@ -1708,7 +1708,7 @@
       "stockQuantity": null,
       "soldOut": false,
       "stockStatus": "판매 가능",
-      "imageUrl": "https://shop-phinf.pstatic.net/20261016_63/1792127412459f4blQ_JPEG/17894186509994603_453077472.jpeg?type=f640",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261016_63/1792127412459f4blQ_JPEG/17894186509994603_453077472.jpeg?type=f640_webp",
       "firstSeenAt": "2026-10-16T05:52:28.376Z",
       "lastChangedAt": "2026-10-16T05:52:28.376Z"
     },
@@ -1722,7 +1722,7 @@
       "stockQuantity": null,
       "soldOut": false,
       "stockStatus": "판매 가능",
-      "imageUrl": "https://shop-phinf.pstatic.net/20261016_91/1792126920703nOw3w_JPEG/126259822834860008_1586541125.jpeg?type=f640",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261016_91/1792126920703nOw3w_JPEG/126259822834860008_1586541125.jpeg?type=f640_webp",
       "firstSeenAt": "2026-10-16T05:52:28.376Z",
       "lastChangedAt": "2026-10-16T05:52:28.376Z"
     },
@@ -2119,6 +2119,6 @@
       "lastChangedAt": "2026-11-10T11:51:44.892Z"
     }
   },
-  "lastErrorAt": "2026-11-11T11:45:07.443Z",
+  "lastErrorAt": "2026-11-11T18:54:01.269Z",
   "lastError": "Error: Discord Webhook 전송 실패 (404): {\"message\": \"Unknown Webhook\", \"code\": 10015}"
 }
