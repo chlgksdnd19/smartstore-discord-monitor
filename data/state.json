@@ -2119,6 +2119,6 @@
       "lastChangedAt": "2026-11-10T11:51:44.892Z"
     }
   },
-  "lastErrorAt": "2026-11-14T20:37:48.515Z",
+  "lastErrorAt": "2026-11-15T00:15:43.997Z",
   "lastError": "Error: Discord Webhook 전송 실패 (404): {\"message\": \"Unknown Webhook\", \"code\": 10015}"
 }
