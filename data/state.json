@@ -1478,15 +1478,15 @@
       "id": "13773032589",
       "url": "https://smartstore.naver.com/lottegm42/products/13773032589",
       "name": "[반스] 남여공용 올드스쿨 모노 VN000D9YTUP 스니커즈",
-      "currentPrice": 53400,
+      "currentPrice": 2500,
       "originalPrice": 49000,
       "discountRate": 95,
       "stockQuantity": null,
       "soldOut": false,
       "stockStatus": "판매 가능",
-      "imageUrl": "https://shop-phinf.pstatic.net/20261006_94/17912773256294AF05_JPEG/30878533594839317_1975275361.jpeg?type=f750_750",
+      "imageUrl": "https://shop-phinf.pstatic.net/20261006_268/1791277313288DLLTn_JPEG/125410141395285085_336317806.jpeg?type=f640_webp",
       "firstSeenAt": "2026-09-23T06:49:21.844Z",
-      "lastChangedAt": "2026-10-25T13:49:36.716Z"
+      "lastChangedAt": "2026-11-16T10:59:59.500Z"
     },
     "13773121704": {
       "id": "13773121704",
@@ -2119,6 +2119,6 @@
       "lastChangedAt": "2026-11-10T11:51:44.892Z"
     }
   },
-  "lastErrorAt": "2026-11-16T03:04:26.855Z",
+  "lastErrorAt": "2026-11-16T10:59:59.696Z",
   "lastError": "Error: Discord Webhook 전송 실패 (404): {\"message\": \"Unknown Webhook\", \"code\": 10015}"
 }
